@@ -10,10 +10,12 @@ body {
 main {
   display: flex;
   margin-top: 2%;
+  flex-wrap: wrap;
 }
 
 .main-header {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   padding: 60px;
   background: #13293d;
